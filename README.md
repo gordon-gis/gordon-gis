@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I’m Clay 👋
 
-<!--
-**gordon-gis/gordon-gis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+GIS Professional focused on cartography, spatial analysis, and practical automation.
+Currently leveling up: Python, Git, and web mapping workflows.
 
-Here are some ideas to get you started:
+## What I’m working on
+- 🗺️ GIS automation (ArcPy, GeoPandas)
+- 🛰️ Remote sensing indices + change detection
+- 🌐 Web maps and lightweight apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+Python • ArcGIS Pro • ArcPy • GeoPandas • Rasterio • QGIS • Git • VS Code
+
+## Links
+- Website: https://www.gordongis.com
+- LinkedIn: www.linkedin.com/in/clayton-gordon-gis
